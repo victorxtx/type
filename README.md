@@ -1,6 +1,6 @@
-type
-A little keyboard typing game
-打字练习
+## type
+### A little keyboard typing game
+### 打字练习
 ### Instruction
 #### 1) Setup LNMP System. You can use a board or compile Nginx and PHP yourself. Windows and Apache both OK, but Nginx, PHP and MySQL is required.
 #### 2) Copy contents of directory 'web' to your site root directory or subdirectory.
